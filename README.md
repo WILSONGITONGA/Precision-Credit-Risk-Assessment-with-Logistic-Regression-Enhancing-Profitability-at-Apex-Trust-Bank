@@ -1,0 +1,2 @@
+# Precision-Credit-Risk-Assessment-with-Logistic-Regression-Enhancing-Profitability-at-Apex-Trust-Bank
+In this project, I spearheaded the development of a data-driven credit risk assessment model for Apex Trust Bank, utilizing logistic regression in R. The model accurately predicted loan defaults, significantly reducing non-performing loans and enhancing the bank’s profitability and financial stability.
