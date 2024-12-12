@@ -23,7 +23,7 @@ D. **Insights and Recommendations:**
 Credit risk assessment refers to the evaluation and analysis of the likelihood that a borrower or debtor will default on their financial obligations, such as repaying a loan or fulfilling a contractual agreement. It involves the comprehensive examination of various factors such as, the borrower's credit history, financial stability, income sources, existing debts, and overall economic conditions. This assessment aims to quantify the level of risk associated with extending credit to an individual, business, or entity. By conducting a thorough credit risk assessment, lenders and financial institutions can make informed decisions about whether to grant credit, and if so, under what terms and conditions, thereby mitigating potential financial losses and ensuring the stability of their lending portfolios. 
 Implementing an effective credit risk assessment model is imperative for Apex Trust Bank's long-term financial stability and reputation. This data-driven solution offers several crucial benefits. Firstly, it enables the bank to significantly reduce the number of bad loans and defaults, thereby safeguarding its profitability. Secondly, it provides a standardized approach to evaluate applicants, ensuring consistent lending decisions. 
 Moreover, by leveraging historical customer data, the model enhances the accuracy of creditworthiness predictions, leading to a higher quality loan portfolio. Ultimately, this case study equips Apex Trust Bank with a powerful tool to make more informed lending decisions and mitigate the risks associated with its lending operations.
-## Key Skills Demonstrated
+## Key Skills I Utilized.
 •	**Exploratory Data Analysis (EDA):** Conducted thorough EDA to understand the data and identify key patterns and trends that could influence the model's accuracy.
 
 •	**Logistic Regression:** Developed and fine-tuned a logistic regression model to predict the probability of loan defaults.
@@ -44,3 +44,5 @@ The project utilized a comprehensive dataset, including variables such as checki
 **R Programming language** was used.
 ## Conclusion: A Strategic Approach to Credit Risk Management.
 This project at Apex Trust Bank is a testament to the power of data-driven decision-making in the financial sector. By applying logistic regression to credit risk assessment, I was able to develop a model that not only improved the bank's lending decisions but also had a direct positive impact on its profitability and reputation. This experience has further solidified my expertise in advanced analytics and risk management, making me well-equipped to tackle similar challenges in the future.
+
+www.wilsongitonga.com
